@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Dados de entrada e resultados, que podem conter informações pessoais
+/fichas/
+*.xlsx
+erros_processamento.txt
+*.log
